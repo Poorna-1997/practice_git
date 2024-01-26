@@ -1,1 +1,2 @@
 this is git learning file.
+after first commit i just wanna explore little more about git.
